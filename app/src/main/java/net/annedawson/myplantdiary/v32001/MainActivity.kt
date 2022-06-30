@@ -1,3 +1,5 @@
+// Last updated: Thursday 30th June 2022, 14:54 PT
+
 package net.annedawson.myplantdiary.v32001
 
 import android.os.Bundle
