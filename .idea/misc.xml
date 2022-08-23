@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/java/net/annedawson/myplantdiary/v32001/MainActivity.kt" value="0.6534296028880866" />
+        <entry key="app/src/main/java/net/annedawson/myplantdiary/v32001/MainActivity.kt" value="0.335" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1175" />
       </map>
     </option>
   </component>
